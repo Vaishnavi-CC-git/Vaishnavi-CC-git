@@ -20,8 +20,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vaishnavi-CC-git&limit=5&theme=rose&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Vaishnavi-CC-git&icon=5&color=5)](https://visitcount.itsvg.in)
